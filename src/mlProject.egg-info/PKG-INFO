@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: mlProject
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/naveenreddy25/End-to-end-ML-house-price
+Author: naveenreddy25
+Author-email: naveenmachupalli@gmail.com
+Project-URL: Bug Tracker, https://github.com/naveenreddy25/End-to-end-ML-house-price/issues
+License-File: LICENSE
+
+# End-to-end-ML-house-price
+
+git config --global user.email "naveenmachupalli@gmail.com"
+git config --global user.name "naveenreddy25"
